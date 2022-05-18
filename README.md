@@ -1,5 +1,5 @@
 # IMS Engineering recruiting
 
-This is a public repository used for hosting recruiting material.
+Solution to the Front-End Challenge
 
-**DO NOT COMMIT SOLUTIONS TO THIS REPOSITORY**.
+by Fabian Leonardo Suarez
